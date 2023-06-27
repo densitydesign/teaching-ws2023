@@ -38,7 +38,7 @@ Authors: Bertocchi Sara, Cozzarini Anna, Crea Lucia, Previti Martina, Vittone Ga
 
 [<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-02.pdf)
 
-![Studenti laureati al Corso di Laurea triennale in Design della Comunicazione al POLIMI: dove vanno e da dove vengono](images/group-02.jpg)
+![Analisi delle keywords nelle tesi di laurea magistrale](images/group-02.jpg)
 
 ## Sapere Politecnico - qual è il background degli iscritti al corso in design della comunicazione?
 
@@ -58,7 +58,7 @@ Authors: Balossi Manuela, Barzaghi Sara, Germanò Giada, Ricco Federico, Taglial
 
 [<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-04.pdf)
 
-![Studenti laureati al Corso di Laurea triennale in Design della Comunicazione al POLIMI: dove vanno e da dove vengono](images/group-04.jpg)
+![Percorsi scolastici e Design della Comunicazione al Politecnico di Milano](images/group-04.jpg)
 
 ## Ammissioni alle Lauree Triennali in Design al Politecnico di Milano. Una analisi dei test di ammissione (TOLD)
 
@@ -68,4 +68,64 @@ Authors: Galbusera Daniele, Gottifredi Luca, Malausa Giovanni, Rapino Paola
 
 [<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-05.pdf)
 
-![Studenti laureati al Corso di Laurea triennale in Design della Comunicazione al POLIMI: dove vanno e da dove vengono](images/group-05.jpg)
+![Ammissioni alle Lauree Triennali in Design al Politecnico di Milano](images/group-05.jpg)
+
+## Indagine nazionale sull’origine territoriale degli studenti di Design della Comunicazione del Politecnico di Milano.
+
+**_National survey on the territorial origin of Communication Design students at Politecnico di Milano_**
+
+Authors: Chimenti Luca, Danielli Elisa, Garlaschelli Sofia, Gatti Andrea, Molteni Camilla
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-06.pdf)
+
+![Indagine nazionale sull’origine territoriale degli studenti di Design della Comunicazione del Politecnico di Milano](images/group-06.jpg)
+
+## Design della Comunicazione: dove si sono concentrati maggiormente gli scambi Erasmus tra il 2018 e il 2022?
+
+**_Communication Design: Where have the Erasmus exchanges been most concentrated between 2018 and 2022?_**
+
+Authors: Bocchio Pietro, D'Aiuto Alice, Fumagalli Simone, Schiavi Lucrezia, Sereni Carlotta
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-07.pdf)
+
+![Design della Comunicazione: dove si sono concentrati maggiormente gli scambi Erasmus tra il 2018 e il 2022?](images/group-07.jpg)
+
+## Poli d'interesse - tesi al passo con i tempi
+
+**_Attraction poles - Msc theses keywords over time_**
+
+Authors: Costisanu Mihaela, Lutterbeck Nastasja Hanna Sophia, Mapelli Elena, Pacchetti Elisa, Pugliano Sara
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-08.pdf)
+
+![Poli d'interesse - tesi al passo con i tempi](images/group-08.jpg)
+
+## Indagine occupazionale 2021
+
+**_Employment survey 2021_**
+
+Authors: Grandi Emanuele, Libertino Edoardo, Liu Hao, Schena Giulia, Zheng Hong
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-09.pdf)
+
+![Indagine occupazionale 2021](images/group-09.jpg)
+
+## Provenienza e background dei designer della comunicazione del Politecnico di Milano
+
+**_Origin and background of communication designers from Politecnico di Milano_**
+
+Authors: Biscardi Caterina, Caselli Emma, Cereda Margherita, Olivari Beatrice, Tisi Eleonora
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-10.pdf)
+
+![Provenienza e background dei designer della comunicazione del Politecnico di Milano](images/group-10.jpg)
+
+## Oltre il test - Cosa succede dopo aver tentato il test d'ammissione a design della comunicazione?
+
+**_Beyond the test - What happens after taking the admission test for Communication Design?_**
+
+Authors: Bonanno Mattia, Bongiorno Andrea, Castelli Alice, Kolta Ilaria, Latini Marika
+
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-11.pdf)
+
+![Oltre il test - Cosa succede dopo aver tentato il test d'ammissione a design della comunicazione?](images/group-11.jpg)
