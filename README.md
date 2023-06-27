@@ -1,4 +1,5 @@
 # Workshop Tirocinante 2023
+
 Results of the "Workshop Tirocinante" held in June 2023 at the Design School, Politecnico di Milano.
 
 **Teachers:**
@@ -21,10 +22,10 @@ The task given to students was to produce a visual poster showcasing the progres
 
 ## Studenti laureati al Corso di Laurea triennale in Design della Comunicazione al POLIMI: dove vanno e da dove vengono
 
-***Graduates of the Bachelor's Degree in Communication Design at POLIMI: where they go and where they come from***
+**_Graduates of the Bachelor's Degree in Communication Design at POLIMI: where they go and where they come from_**
 
-[<img src="/Users/michelemauri/Documents/GitHub/teaching-ws2023/assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/Gruppo 1 - PercorsoLaureatiLTinDDC.pdf)
+[<img src="assets/file-pdf-regular.svg" alt="file-pdf-regular" width="32" />Download PDF](pdf/group-01.pdf)
 
-![[group-01]()](images/group-01.jpg)
+![Studenti laureati al Corso di Laurea triennale in Design della Comunicazione al POLIMI: dove vanno e da dove vengono](images/group-01.jpg)
 
-## 
+##
